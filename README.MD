@@ -9,7 +9,6 @@ Este repositório foi utilizado para estudo durante aulas ministradas para as al
 - Comandos DDL (Data Definition Language)
   - `CREATE TABLE`
   - `ALTER TABLE`
-  - `DROP TABLE`
 - Comandos DML (Data Manipulation Language)
   - `INSERT`
   - `UPDATE`
