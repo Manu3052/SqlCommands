@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/1d00d4ee-6e08-4363-826c-0406db2ebc54)
+
 # 📌 Repositório de Estudos - Aulas de SQL
 
 Este repositório foi utilizado para estudo durante aulas ministradas para as alunas da WoMakersCode sobre SQL. O objetivo das aulas foi proporcionar uma introdução prática ao banco de dados relacional, abordando conceitos fundamentais e comandos essenciais para manipulação de dados.
