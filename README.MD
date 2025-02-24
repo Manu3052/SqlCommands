@@ -46,8 +46,8 @@ Este repositório foi criado para fins educativos e está aberto para contribui�
 ## 📩 Contato
 Caso tenha alguma dúvida ou sugestão, entre em contato pelo e-mail ou pelo LinkedIn!
 
-E-mail: manuele.lamenha.mauricio@gmail.com
-Linkedin: https://www.linkedin.com/in/manuele-mauricio-lamenha-99460a216/
+*E-mail:* manuele.lamenha.mauricio@gmail.com
+*Linkedin:* https://www.linkedin.com/in/manuele-mauricio-lamenha-99460a216/
 ---
 💡 *Este material foi desenvolvido para apoiar o aprendizado de mulheres na tecnologia, incentivando a inclusão e diversidade na área de dados!*
 
